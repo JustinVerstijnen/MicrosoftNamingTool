@@ -1,6 +1,6 @@
-# Intune Naming Tool
+# Microsoft Naming Tool
 
-Intune Naming Tool is a lightweight and web-based name generator created by Justin Verstijnen. This tool has the focus on creating consistent Microsoft Intune resource names and group names based on a fixed naming framework.
+Microsoft Naming Tool is a lightweight and web-based name generator created by Justin Verstijnen. This tool has the focus on creating consistent Microsoft Intune, Entra and Azure resource names and group names based on a fixed naming framework.
 
 The tool helps you generate names using the following convention:
 
